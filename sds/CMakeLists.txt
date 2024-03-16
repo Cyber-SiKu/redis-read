@@ -1,1 +1,0 @@
-add_library(sds STATIC sds.cpp sds.h)
